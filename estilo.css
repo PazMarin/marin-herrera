@@ -6,13 +6,13 @@
 body{
 	background:rgba(255,255,255,1);
 	color:rgba(25,25,25,1);
-	font-family: 'Poppins', sans-serif;
-	font-weight:300;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight:400;
 }
 
 h1, h2, h3, h4{
-	font-family: 'Montserrat', sans-serif; 
-	font-weight:700; 
+	font-family: 'Shadows Into Light', cursive; 
+	font-weight:400; 
 }
 
 h1{
@@ -24,7 +24,7 @@ h1{
 
 h2{
 	letter-spacing:0.02em; 
-	color:rgba(255,255,255,0.6); 
+	color:rgba(20, 73, 179); 
 	padding:0.2em 0; 
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;		
@@ -140,7 +140,7 @@ video{
 .item {
 	width:23%;
 	margin:1%;
-	color:#333;
+	color :#333;
 	background:white;
 	box-shadow:0 0 5px rgba(0,0,0,.1);
 }
